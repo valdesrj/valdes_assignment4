@@ -1,7 +1,7 @@
 
-// Application to class DuplicateRemover
+// Application to class DuplicateCounter
 // Given the data file "problem2.txt" count duplicate words.
-// The unique words in are stored in "unique_words.txt".
+// The unique words in are stored in "unique_word_counts.txt".
 
 public class Application {
 
