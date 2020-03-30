@@ -1,7 +1,7 @@
 
-// Application to text class DuplicateRemover
-// Given the data file "problem1.txt" duplicate words are removed.
-// The unique words in are stored in "unique_words.txt".
+// Application to class DuplicateRemover
+// Given the data file "problem1.txt", duplicate words are removed.
+// The unique words are stored in "unique_words.txt".
 
 public class Application {
 
